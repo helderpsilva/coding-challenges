@@ -1,1 +1,1 @@
-# python_coding_challenges
+# coding-challenges
